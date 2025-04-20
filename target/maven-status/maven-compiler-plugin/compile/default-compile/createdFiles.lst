@@ -1,0 +1,14 @@
+main\ui\MainUI.class
+main\service\ExpenseService.class
+main\ui\MainApp.class
+main\dao\ExpenseDAO.class
+main\dao\IncomeDAO.class
+main\ui\MainMenu.class
+main\dao\UserDAO.class
+main\service\IncomeService.class
+main\database\DatabaseConnection.class
+main\ui\MainDashboard.class
+main\App.class
+main\model\Income.class
+main\util\Utility.class
+main\model\Expense.class

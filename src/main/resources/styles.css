@@ -1,0 +1,39 @@
+/* Root layout styling */
+.root {
+    font-family: "Arial", sans-serif;
+    -fx-background-color: #ffffff;
+}
+
+/* Button styling */
+.button {
+    -fx-background-color: #0078d7; /* Blue background */
+    -fx-text-fill: white; /* White text */
+    -fx-padding: 10px; /* Padding inside the button */
+    -fx-font-size: 14px; /* Font size */
+    -fx-border-radius: 5px; /* Rounded corners */
+    -fx-background-radius: 5px; /* Rounded background */
+}
+
+.button:hover {
+    -fx-background-color: #005a9e; /* Darker blue on hover */
+}
+
+/* Label styling */
+.label {
+    -fx-font-size: 16px; /* Font size */
+    -fx-padding: 10px; /* Padding around the label */
+    -fx-text-fill: #333333; /* Dark gray text */
+}
+
+/* Navigation panel styling */
+.navigation-panel {
+    -fx-background-color: #f0f0f0; /* Light gray background */
+    -fx-padding: 10px; /* Padding inside the panel */
+    -fx-spacing: 10px; /* Spacing between elements */
+}
+
+/* Center content styling */
+.center-content {
+    -fx-padding: 20px; /* Padding inside the center content */
+    -fx-alignment: center; /* Center alignment */
+}
